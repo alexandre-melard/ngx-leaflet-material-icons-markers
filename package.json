@@ -1,0 +1,31 @@
+{
+  "name": "ngx-leaflet-material-icons-markers",
+  "version": "1.0.0",
+  "description": "angular materials icons for leaflet",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mylen/ngx-leaflet-material-icons-markers.git"
+  },
+  "keywords": [
+    "leaflet",
+    "ngx",
+    "angular",
+    "icons",
+    "markers"
+  ],
+  "author": "Alexandre Melard",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mylen/ngx-leaflet-material-icons-markers/issues"
+  },
+  "homepage": "https://github.com/mylen/ngx-leaflet-material-icons-markers#readme",
+  "dependencies": {
+    "@asymmetrik/ngx-leaflet": "^2.4.0",
+    "@types/leaflet": "^1.2.0",
+    "leaflet": "^1.2.0"
+  }
+}
