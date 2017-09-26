@@ -1,1 +1,1 @@
-export { materialIcon, materialIconOptions } from './materialIcons';
+export { MaterialIcon, MaterialIconOptions } from './materialIcons';
